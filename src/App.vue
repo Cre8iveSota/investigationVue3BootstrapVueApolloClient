@@ -9,6 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
+      <TestGraphQL />
     </div>
   </header>
 
@@ -16,6 +17,10 @@ import TheWelcome from './components/TheWelcome.vue'
     <TheWelcome />
   </main>
 </template>
+
+<script>
+import TestGraphQL from "./TestGraphQL.vue";
+</script>
 
 <style scoped>
 header {

@@ -1,7 +1,7 @@
 <template>
     <!-- <button @click="executeApolloClient">実行</button> -->
+    <b-button variant="primary">Click me!</b-button>
     <div v-if="result">
-
         {{ result }}
     </div>
 </template>
@@ -26,6 +26,7 @@ const { result } = useQuery(gql`
   }
 }
   `);
+
 
 // const setup = () => {
 //     const { client } = useApolloClient();

@@ -33,3 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+## bootstrapVueNext 参考
+https://qiita.com/ryo2020/items/efc2e36724d2621a7eef

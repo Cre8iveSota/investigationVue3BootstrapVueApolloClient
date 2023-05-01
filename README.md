@@ -37,3 +37,6 @@ npm run lint
 
 ## bootstrapVueNext 参考
 https://qiita.com/ryo2020/items/efc2e36724d2621a7eef
+
+## apollo 参考
+https://kasyalog.site/blog/vue3-vue-apollo4-query-github-api/#toc3
